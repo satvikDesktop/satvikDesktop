@@ -1,7 +1,9 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm satvikDesktop</h1>
 <h3 align="center">programming enthusiast in high school</h3>
 
-
+<a href="mailto:satviksingh2304@gmail.com">
+  <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
