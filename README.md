@@ -4,8 +4,8 @@
 <a href="mailto:satviksingh2304@gmail.com">
   <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+  
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/satvikdesktop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="satvikdesktop" height="30" width="40" /></a>
 <a href="https://dev.to/satvikdesktop" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="satvikdesktop" height="30" width="40" /></a>
