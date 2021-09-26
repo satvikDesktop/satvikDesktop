@@ -1,6 +1,21 @@
 <h1 align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
-
-
+<p align="center">
+ ‎ 
+ ‎
+ ‎
+ ‎ 
+ ‎
+ ‎
+</p>
+<h3 align="center">I develop stuff</h3>
+<p align="center">
+ ‎ 
+ ‎
+ ‎
+ ‎ 
+ ‎
+ ‎
+</p>
 <a href="mailto:satviksingh2304@gmail.com">
   <img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
