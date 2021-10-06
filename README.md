@@ -1,6 +1,6 @@
 <h1 align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
 
-<h3 align="center">I build things on the computer</h3>
+<h3 align="center">I build things on the internet</h3>
 
 
 <h3 align="center">Connect with me:</h3>
