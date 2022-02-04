@@ -1,10 +1,5 @@
-<div align="center">
-<p><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=satvikDesktop&theme=nord"/></p>
-<p><img " src="https://github-readme-stats.vercel.app/api?username=satvikdesktop&show_icons=true&locale=en&theme=nord" alt="satvikdesktop" />
- </p>
-  <img src="https://github-profile-trophy.vercel.app/?username=satvikDesktop&theme=nord&row=1&no-frame=true&no-bg=true/">
+
  
- <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=satvikdesktop&theme=nord" alt="satvikdesktop" /></p>
-<img src="https://activity-graph.herokuapp.com/graph?username=satvikDesktop&theme=nord" alt="Contribution Graph" align="center" />
- </div>
+![Metrics](https://metrics.lecoq.io/satvikDesktop?template=classic&base.community=0&isocalendar=1&languages=1&lines=1&repositories=1&notable=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&notable.from=organization&notable.repositories=false&notable.indepth=false&config.timezone=Asia%2FCalcutta)
+ 
 
