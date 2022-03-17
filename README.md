@@ -7,7 +7,7 @@
 
 - 📫 Mail **satviksingh2304@gmail.com**
 
-### Blogs posts
+### Articles
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
