@@ -1,9 +1,3 @@
-
-
-- 👨‍💻 Website [https://satvik.ninja](https://satvik.ninja)
-
-- 📝 Articles [https://dev.to/satvik](https://dev.to/satvik)
-
 - 📫 Mail **satviksingh2304@gmail.com**
 
 ## Latest Blog Posts
