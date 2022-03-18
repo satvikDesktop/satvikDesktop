@@ -1,5 +1,4 @@
-<h1 align="center"> 👋, I'm Satvik</h1>
-<h3 align="center">I build things on the internet</h3>
+
 
 - 👨‍💻 Website [https://satvik.ninja](https://satvik.ninja)
 
