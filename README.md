@@ -7,7 +7,7 @@
 
 - 📫 Mail **satviksingh2304@gmail.com**
 
-
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to fetch images from and API](https://dev.to/satvik/how-to-fetch-images-from-and-api-5h8h)
 <!-- BLOG-POST-LIST:END -->
