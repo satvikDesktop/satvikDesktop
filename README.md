@@ -1,18 +1,5 @@
 <div align="center">
-- 📫 Mail satviksingh2304@gmail.com
-
-
-## dev.to articles
-<!-- BLOG-POST-LIST:START -->
-- [How to make a rickroll website](https://dev.to/satvik/how-to-make-a-rickroll-website-28en)
-- [How to make neumorphic elements in your website](https://dev.to/satvik/how-to-neumorphism--lcf)
-- [Type in the Notepad using Java](https://dev.to/satvik/type-in-the-notepad-using-java-4pmh)
-- [How to achieve simple glassmorphism effect in your website](https://dev.to/satvik/how-to-achieve-simple-glassmorphism-effect-in-your-website-21o7)
-- [How to fetch images from an API](https://dev.to/satvik/how-to-fetch-images-from-and-api-5h8h)
-<!-- BLOG-POST-LIST:END -->
+  
+![Metrics](https://metrics.lecoq.io/satvikDesktop?template=classic&base.metadata=0&languages=1&isocalendar=1&activity=1&lines=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FCalcutta)
+  
 </div>
-
-
-
-|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=satvikdesktop&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="satvik's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvikdesktop&layout=compact&theme=nord&hide_border=true" /></a> |
-| ------------- | ------------- |
