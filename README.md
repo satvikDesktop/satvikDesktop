@@ -1,6 +1,13 @@
 <div align="center">
  
-### Articles 📝 
+ ![satvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=satvikDesktop&show_icons=true&theme=dark&hide=stars)<br><br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satvikDesktop&theme=dark&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+ 
+### Posts 📝 
 <!-- BLOG-POST-LIST:START -->
 - [How to make a rickroll website](https://dev.to/satvik/how-to-make-a-rickroll-website-28en)
 - [How to make neumorphic elements in your website](https://dev.to/satvik/how-to-neumorphism--lcf)
