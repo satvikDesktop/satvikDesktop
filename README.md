@@ -3,9 +3,10 @@
  ![satvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=satvikDesktop&show_icons=true&theme=dark&hide=stars)<br><br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satvikDesktop&theme=dark&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
- 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img
+  src="https://github.com/satvikDesktop/satvikDesktop>/blob/main/images/stat.svg"
+  alt="wakatime stats"
+/>
  
 ### Posts 📝 
 <!-- BLOG-POST-LIST:START -->
